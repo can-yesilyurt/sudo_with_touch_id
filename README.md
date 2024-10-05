@@ -3,12 +3,13 @@ script makes sudo command initiates touch id auth window instead of asking passw
 
 Usage
 
-cd ~
-
-git clone https://github.com/canyesil/sudo_with_touch_id.git
-
-cd sudo_with_touch_id
-
-chmod +x sudotid.sh
-
-./sudotid.sh
+##
+    cd ~
+##
+    git clone https://github.com/canyesil/sudo_with_touch_id.git
+##
+    cd sudo_with_touch_id
+##
+    chmod +x sudotid.sh
+##
+    ./sudotid.sh
